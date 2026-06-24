@@ -1,0 +1,6 @@
+city,country,temperature,humidity,pressure,wind_speed,weather_main,weather_description,collection_time
+Munich,DE,29.77,51,1017,2.29,Clear,clear sky,2026-06-24 18:44:40.017830
+London,GB,34.11,49,1017,0.45,Clear,clear sky,2026-06-24 18:44:40.380977
+Paris,FR,39.15,27,1012,0.45,Clear,clear sky,2026-06-24 18:44:40.773240
+Tokyo,JP,21.8,86,1012,2.09,Rain,heavy intensity rain,2026-06-24 18:44:41.139247
+New York,US,27.22,41,1014,2.68,Clear,clear sky,2026-06-24 18:44:41.488433
