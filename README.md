@@ -56,7 +56,31 @@ weather-bi-project/
 ├── dashboard/
 ├── README.md
 └── weather.db
+## Setup
 
+1. Clone the repository
+
+git clone https://github.com/VishnuN23/weather-bi-project.git
+
+2. Install dependencies
+
+pip install -r requirements.txt
+
+3. Create a .env file
+
+OPENWEATHER_API_KEY=your_api_key_here
+
+4. Run data extraction
+
+python scripts/extract_weather.py
+
+5. Load data into PostgreSQL
+
+python scripts/load_to_postgres.py
+
+6. Open Power BI Dashboard
+
+dashboard/Weather_BI_Dashboard.pbix
 ## Author
 
 Vishnu Nanda Kumar
